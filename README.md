@@ -1,12 +1,22 @@
-- 👋 Hi, I’m @bwsindia
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 
-<!---
-bwsindia/bwsindia is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# Brain Works Synergy India
+
+
+
+Strating Our Page on GitHub. With First Project.
+
+BWS-india is  Company Providing Support for 
+
+Software Devlopment 
+
+It Support Cloud Physical infrastructure Virtual Infrastructure 
+
+Security Service and Support
+
+Virtual Assistant 
+
+Architectural Designs
+
+Accounting
+
+Operations 
