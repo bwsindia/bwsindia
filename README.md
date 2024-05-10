@@ -2,21 +2,18 @@
 # Brain Works Synergy India
 
 
-
-Strating Our Page on GitHub. With First Project.
-
-BWS-india is  Company Providing Support for 
+BWS-india Provids Support for 
 
 Software Devlopment 
 
 It Support Cloud Physical infrastructure Virtual Infrastructure 
 
-Security Service and Support
+It Security Service and Support
 
 Virtual Assistant 
 
-Architectural Designs
+Architectural Designs Interior Exterior Manufecturing with REVIT Lumion SketchUP
 
 Accounting
 
-Operations 
+Operations And Analytics
